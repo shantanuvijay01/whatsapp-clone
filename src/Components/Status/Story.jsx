@@ -1,0 +1,20 @@
+export const stories = [
+    {
+        image:"https://i.pinimg.com/236x/45/7a/de/457adee5bd3335b9cff37645ddf69995.jpg"
+    },
+    {
+        image:"https://i.pinimg.com/236x/31/8a/c3/318ac3609f8f7e51bababf7fc53d471f.jpg"
+    },
+    {
+        image:"https://i.pinimg.com/236x/ce/dc/63/cedc639333409fc7c90574433613abed.jpg"
+    },
+    {
+        image:"https://i.pinimg.com/236x/86/24/82/862482b95c30d8e05be7d9ceb033accf.jpg"
+    },
+    {
+        image:"https://i.pinimg.com/236x/d5/12/b1/d512b1f363797bb8c7efa35a280e6fc2.jpg"
+    },
+    {
+        image:"https://i.pinimg.com/236x/e7/a9/71/e7a9718b40d004c59fa4d77ef0ddce51.jpg"
+    }
+]
